@@ -1,0 +1,19 @@
+
+
+:root{
+    --text-success: #0C686D;
+}
+
+.text-success{
+    color: var(--text-success) !important;
+}
+
+.rounded-25{
+    border-radius: 25px;
+}
+
+.fs-6{
+    font-size: 17.5px !important;
+}
+
+
